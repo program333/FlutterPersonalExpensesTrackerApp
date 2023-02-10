@@ -3,8 +3,36 @@
 A new Flutter project.
 
 # Screenshots
-<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" alt="img1" width='150' />
-<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K1.jpg?raw=true" alt="img2" width='150'/>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K1.jpg?raw=true" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+<!-- <img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" alt="img1" width='150' />
+<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K1.jpg?raw=true" alt="img2" width='150'/> -->
 
 ## Getting Started
 
