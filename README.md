@@ -7,8 +7,8 @@ A new Flutter project.
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>After adding expenses</td>
+     <
   </tr>
   <tr>
     <td><img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" width=270 height=480></td>
