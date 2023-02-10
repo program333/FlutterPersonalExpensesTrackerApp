@@ -11,15 +11,12 @@ A new Flutter project.
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src=""https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" width=270 height=480></td>
     <td><img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K1.jpg?raw=true" width=270 height=480></td>
    
   </tr>
  </table>
 
-
-<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" alt="img1" width='200' />
-<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K1.jpg?raw=true" alt="img2" width='200'/>
 
 ## Getting Started
 
