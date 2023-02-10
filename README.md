@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Screenshots
+<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/s2.jpg?raw=true" alt="imag1" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
