@@ -2,8 +2,7 @@
 
 A new Flutter project.
 
-#### Flutter App Screenshots
-
+# Flutter App Screenshots
 <table>
   <tr>
     <td>First Screen Page</td>
