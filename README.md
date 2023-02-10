@@ -10,7 +10,7 @@ A new Flutter project.
      <
   </tr>
   <tr>
-    <td><img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/Screenshots/K2.jpg?raw=true" width=270 height=480></td>
     <td><img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/Screenshots/K1.jpg?raw=true" width=270 height=480></td>
    
   </tr>
