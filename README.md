@@ -3,8 +3,8 @@
 A new Flutter project.
 
 # Screenshots
-<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" alt="img1" width='50' />
-<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K1.jpg?raw=true" alt="img2" width='50'/>
+<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K2.jpg?raw=true" alt="img1" width='100' />
+<img src="https://github.com/program333/FlutterPersonalExpensesTrackerApp/blob/main/K1.jpg?raw=true" alt="img2" width='100'/>
 
 ## Getting Started
 
